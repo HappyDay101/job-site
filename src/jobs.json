@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "9c9b",
-      "title": "Test Job 1",
-      "type": "Full-Time",
-      "location": "Tokyo, Japan",
-      "description": "This is a test",
-      "salary": "Under ¥5Million",
-      "company": {
-        "name": "Test Company",
-        "description": "This is the best company",
-        "contactEmail": "test@company.test",
-        "contactPhone": "000-000-0000"
-      }
     }
   ]
 }
