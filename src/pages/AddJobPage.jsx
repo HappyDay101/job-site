@@ -110,7 +110,7 @@ const AddJobPage = ({ addJobSubmit }) => {
                 onChange={(e) => setSalary(e.target.value) }
               >
                 <option value="Under ¥5 Million">Under ¥5Million</option>
-                <option value="¥5M - 6M">¥5M - ¥6M</option>
+                <option value="¥4M - 6M">¥4M - ¥6M</option>
                 <option value="¥6M - 7M">¥6M - ¥7M</option>
                 <option value="¥7M - 8M">¥7M - ¥8M</option>
                 <option value="¥8M - 9M">¥8M - ¥9M</option>
